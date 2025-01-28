@@ -1,4 +1,4 @@
-MySQL-YouTube-Series
+# MySQL-YouTube-Series
 
 i learn this project through this youtube course and ive gained knowledge on MySQL such as:
 - CTEs  
